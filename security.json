@@ -1,0 +1,12 @@
+{
+  "name": "campus_escrow",
+  "description": "Unaudited hackathon MVP for campus face-to-face handover. Devnet and local validator only. The program locks test SOL until the recorded buyer confirms. It does not verify physical delivery, settle disputes, or provide a timeout refund.",
+  "notification": "Do not treat this file as a production security disclosure. No audit has been performed. Do not publish it with anchor program deploy --security-metadata for a mainnet program.",
+  "contacts": [],
+  "policy": "",
+  "preferred_languages": ["en", "zh"],
+  "source_release": "hackathon-mvp",
+  "source_revision": "unpublished-origin-draft",
+  "auditors": [],
+  "version": "0.1.0"
+}
